@@ -10,7 +10,7 @@ Hey, I'm Nistal — someone who enjoys solving problems, breaking things down, a
 - 💻 Programming & Problem Solving  
 - 🧪 Creative Projects & Tech Experiments  
 - 🎨 Graphic Design & Editing  
-- 🎬 Movies, Series & Gaming  
+
 
 ---
 

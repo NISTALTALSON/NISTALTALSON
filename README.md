@@ -9,7 +9,6 @@ Hey, I'm Nistal — someone who enjoys solving problems, breaking things down, a
 - 🔐 Cybersecurity & Ethical Hacking 
 - 💻 Programming & Problem Solving  
 - 🧪 Creative Projects & Tech Experiments  
-- 🎨 Graphic Design & Editing  
 
 
 ---

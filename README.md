@@ -1,6 +1,10 @@
 # 👨‍💻 Nistal Talson
 
-Hey, I'm Nistal — someone who enjoys solving problems, breaking things down, and building cool stuff, and always exploring and improving.
+Hey, I'm Nistal — Cybersecurity student 
+• Full-stack learner  
+Building practical projects,
+Interested in security, systems, and scalable projects.
+
 
 ---
 
@@ -15,7 +19,7 @@ Hey, I'm Nistal — someone who enjoys solving problems, breaking things down, a
 
 ## 🛠️ Tools I Use
 
-- Languages: Python, Java, C++ ...
+- Languages: Python, C, C++ ...
 - Tools: VS Code, Git, Linux  ...
 
 ---

@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm NISTAL TALSON</h1>
-<h3 align="center">Hey, I'm Nistal — Cybersecurity student • Full-stack learner Building practical projects, Interested in security, systems, networks!</h3>
+<h3 align="center">I'm Nistal — Cybersecurity student • Full-stack learner Building practical projects, Interested in security, systems, networks!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nistaltalson&label=Profile%20views&color=0e75b6&style=flat" alt="nistaltalson" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nistaltalson" alt="nistaltalson" /></a> </p>
 
+- 🔭 I’m currently working on [Findmypgindia](https://findmypgindia.vercel.app/)
+
 - 🌱 I’m currently learning **CyberSecurity**
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/nistaltalson](https://www.linkedin.com/in/nistaltalson)
 
 - 📫 How to reach me **https://www.linkedin.com/in/nistaltalson**
 
